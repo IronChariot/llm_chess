@@ -1,0 +1,8 @@
+autogen==0.3.0
+chess
+matplotlib
+cairosvg
+moviepy==1.0.3
+google-generativeai
+vertexai
+pytest
